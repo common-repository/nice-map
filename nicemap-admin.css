@@ -1,0 +1,33 @@
+/**
+ * Styles for Nice Map Plugin
+ *
+ */
+
+/* Checkbox */
+input.layer_enable {
+  float: left;
+  margin-right: 0.5em;
+}
+
+ul#nicemap_layer_list {
+}
+
+li.layer-sortable {
+  border: 1px solid #BBD8E7;
+  padding: 3px;
+}
+
+li.layer-sortable h4.layer-title {
+  cursor: pointer;
+  margin: 0;
+  padding: 0;
+}
+
+fieldset#layer_set {
+  padding: 9px;
+  border: 1px solid #BBD8E7;
+}
+
+fieldset#layer_set legend {
+  font-weight: bold;
+}
